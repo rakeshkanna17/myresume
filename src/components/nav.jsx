@@ -2,8 +2,8 @@ function Nav() {
   return (
     <div >
       <nav>
-        <a class="nav-logo" href="#"><span>RK</span></a>
-        <ul class="nav-links">
+        <a className="nav-logo" href="#"><span>RK</span></a>
+        <ul className="nav-links">
           <li><a href="#skills">Skills</a></li>
           <li><a href="#experience">Experience</a></li>
           <li><a href="#projects">Projects</a></li>
