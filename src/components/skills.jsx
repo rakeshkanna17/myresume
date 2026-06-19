@@ -31,8 +31,9 @@ function Skills() {
         </div>
       </div>
 
+
       <div className="skill-card">
-        <div className="skill-category">Tools & Platforms</div>
+        <div className="skill-category">kanna Tools & Platforms</div>
         <div className="skill-name">Development Ecosystem</div>
         <div className="skill-tags">
           <span className="tag">Git</span>
